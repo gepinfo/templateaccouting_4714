@@ -1,0 +1,7 @@
+{
+  "name": "templateaccouting",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
